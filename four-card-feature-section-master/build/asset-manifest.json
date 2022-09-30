@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6147cd9.css",
+    "main.js": "/static/js/main.dbed3865.js",
+    "static/media/icon-karma.svg": "/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/index.html",
+    "main.e6147cd9.css.map": "/static/css/main.e6147cd9.css.map",
+    "main.dbed3865.js.map": "/static/js/main.dbed3865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6147cd9.css",
+    "static/js/main.dbed3865.js"
+  ]
+}
